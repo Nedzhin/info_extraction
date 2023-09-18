@@ -1,3 +1,6 @@
+# Note
+To see your own results after running the script -> change the excell name when you save the excell file. It is in the bottom of the code
+
 # PDF Data Extraction and Analysis Script
 
 This Python script is designed to extract specific information from a PDF file, analyze the extracted data, and write the results to an Excel file. It utilizes various libraries, including PyPDF2, openpyxl, and the OpenAI API.
